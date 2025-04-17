@@ -84,11 +84,11 @@ const products = [
         colors: [
             {
                 code:"silver",
-                img:"./img/Product/adidas.png",
+                img:"./img/Product/shoes1.png",
             },
             {
                 code:"teal",
-                img:"./img/Product/adidas2.png",
+                img:"./img/Product/shoes6.png",
             },
         ],
     },
